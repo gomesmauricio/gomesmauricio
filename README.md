@@ -1,4 +1,4 @@
-## Olá! Eu sou o Mauricio
+## Olá! Eu sou o Mauricio 😎
  <div>
   <a href="https://github.com/gomesmauricio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomesmauricio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
