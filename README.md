@@ -1,23 +1,17 @@
-### Hi there 👋
-My name is Jose Mauricio and I am a system development student
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomesmauricio&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesmauricio&layout=compact&theme=tokyonight)](https://github.com/diegocravo/github-readme-stats)
-
-
-
-<!--
-**gomesmauricio/gomesmauricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá! Eu sou o Mauricio
+ <div>
+  <a href="https://github.com/gomesmauricio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomesmauricio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  
+</div>
+  
+  ##
+ 
+<div> 
+  
+  ![Snake animation](https://github.com/gomesmauricio/gomesmauricio/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
