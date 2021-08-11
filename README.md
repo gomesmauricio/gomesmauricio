@@ -3,6 +3,7 @@
   <a href="https://github.com/gomesmauricio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomesmauricio&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesmauricio&layout=compact&langs_count=7&theme=highcontrast"/>
+  
 </div>
 <div style="display: inline_block"><br>
   
@@ -17,6 +18,7 @@
  <img align="center" alt="mgo-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
  <img align="center" alt="mgo-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
  <img align="center" alt="mgo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+ <img align="right" alt="mgo-yoda" src="https://www.criarbanner.com.br/criargifs/a/ee1d424b96db523585b59ef6029c3c31.gif">
 <div> 
   
  ##
