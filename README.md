@@ -18,7 +18,7 @@
  <img align="center" alt="mgo-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
  <img align="center" alt="mgo-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
  <img align="center" alt="mgo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
- <img align="right" alt="mgo-yoda" src="https://www.criarbanner.com.br/criargifs/a/ee1d424b96db523585b59ef6029c3c31.gif">
+<!-- <img align="right" alt="mgo-yoda" src="https://www.criarbanner.com.br/criargifs/a/ee1d424b96db523585b59ef6029c3c31.gif">  -->
 <div> 
   
  ##
@@ -33,5 +33,5 @@
    <a href="https://web.whatsapp.com/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
   
     
- ![Snake animation](https://github.com/gomesmauricio/gomesmauricio/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/gomesmauricio/gomesmauricio/blob/output/github-contribution-grid-snake.svg) -->
  </div>
