@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesmauricio&layout=compact&langs_count=7&theme=light"/>
   
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"></br>
   
 </div>
   <img align="left" alt="mgo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,10 +19,11 @@
   <img align="left" alt="mgo-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="left" alt="mgo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
 <!-- <img align="right" alt="mgo-yoda" src="https://www.criarbanner.com.br/criargifs/a/ee1d424b96db523585b59ef6029c3c31.gif">  -->
+ </br>
 <div> 
   
  ##
- 
+  
 </div>
  
  <div>
